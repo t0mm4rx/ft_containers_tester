@@ -2,7 +2,7 @@
 
 > ⚠️ Tests are pretty basic, so make sure to test more extreme cases.
 
-Your container is compared to the std ones. Compile on Linux, the sanitise flag will reveal leaks.
+Your container is compared to the std ones. Compile on Linux, the sanitize flag will reveal leaks.
 
 ![Screenshot](./screenshot.png)
 
